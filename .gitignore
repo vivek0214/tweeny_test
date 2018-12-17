@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+venv/*
+.idea/*
+notes.txt
+.vscode
+.coverage
+*~
+*.sw[po]
+app/static/images/*
+notes2.txt
+untitled-1
+celerybeat-schedule
